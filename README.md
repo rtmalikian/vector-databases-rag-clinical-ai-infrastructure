@@ -16,7 +16,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23549144.svg)](https://doi.org/10.5281/zenodo.23549144)
 **Preprint:** [Zenodo](https://doi.org/10.5281/zenodo.23549144) | **License:** CC BY 4.0 | **PDF:** [article3-vector-databases.pdf](article3-vector-databases.pdf)
 
-Preprint: Zenodo. Journal submission in progress.
+Submitted to the Journal of Biomedical Informatics (Manuscript JBI-26-4036). Preprint: Zenodo.
 
 ## About this paper
 
